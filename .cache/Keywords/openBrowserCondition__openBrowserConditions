@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3EEACC73A8EE8A79CF0FACCE2F041343",
+  "keywordClasses": [
+    {
+      "name": "openBrowserCondition.openBrowserConditions",
+      "keywordMethods": [
+        {
+          "name": "openBrowserConditionsTest1",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
